@@ -5,11 +5,11 @@ import setuptools
 #--------------------------------------------------------------------------------
 # Please modify to fit your extension (particularly the text in CAPITALS)
 #--------------------------------------------------------------------------------
-name = "kineticstoolkit_EXTENSIONNAME"
-description = "An extension to Kinetics Toolkit"
-url = "https://github.com/GITHUBUSER/kineticstoolkit_EXTENSIONNAME"
-author = "AUTHORNAME"
-author_email = "AUTHOREMAIL"
+name = "kineticstoolkit_n3d"
+description = "Provides read_n3d() to read Optotrack 3d acquisitions."
+url = "https://github.com/felixchenier/kineticstoolkit_n3d"
+author = "Félix Chénier"
+author_email = "chenier.felix@uqam.ca"
 #--------------------------------------------------------------------------------
 # It may be advised to avoid modifying the rest of this file.
 #--------------------------------------------------------------------------------
